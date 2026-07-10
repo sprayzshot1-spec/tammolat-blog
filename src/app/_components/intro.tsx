@@ -17,7 +17,7 @@ export function Intro() {
         </h1>
       </div>
       <h4 className="text-center md:text-right text-lg mt-5 md:pl-8 text-slate-600 dark:text-slate-400">
-        قراءة هادئة في زحام الحياة
+        تاملات احمد شاكر
       </h4>
     </section>
   );
