@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     siteName: "تأملات وسط الضباب",
     images: [
       {
-        url: HOME_OG_IMAGE_URL, // سيتم ربطه لاحقاً بصورة اللوجو الخاص بك
+        url: HOME_OG_IMAGE_URL, 
         width: 1200,
         height: 630,
         alt: "تأملات وسط الضباب - أحمد شاكر",
@@ -30,6 +30,10 @@ export const metadata: Metadata = {
     ],
     locale: "ar_EG",
     type: "website",
+  },
+  // 🔴 إضافة كود إثبات الملكية الخاص بـ Google Search Console
+  verification: {
+    google: "rH0rvsLEackfLdBUqFkDZcDAzGto-Nmpp1OyEbXRO1M",
   },
 };
 
