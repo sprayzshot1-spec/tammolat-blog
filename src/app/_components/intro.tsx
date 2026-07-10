@@ -16,7 +16,7 @@ export function Intro() {
           وسط الضباب.
         </h1>
       </div>
-      <h4 className="text-center md:text-right text-lg mt-5 md:pl-8 text-slate-600 dark:text-slate-400">
+      <h4 className="text-center md:text-right text-lg mt-5 md:pl-15 text-slate-600 dark:text-slate-400">
         تاملات احمد شاكر
       </h4>
     </section>
