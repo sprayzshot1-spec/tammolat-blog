@@ -7,8 +7,8 @@ export function Intro() {
         <Image 
           src="/images/logo.png" 
           alt="لوجو تأملات وسط الضباب" 
-          width={80} 
-          height={80} 
+          width={160} 
+          height={160} 
           className="rounded-full object-cover shadow-lg" 
         />
         <h1 className="text-5xl md:text-8xl font-bold tracking-tighter leading-tight">
