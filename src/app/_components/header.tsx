@@ -12,8 +12,8 @@ const Header = () => {
         <Image 
           src="/images/logo.png" 
           alt="لوجو تأملات وسط الضباب" 
-          width={50} 
-          height={50} 
+          width={160} 
+          height={160} 
           className="rounded-full object-cover" // تم إضافة rounded-full لجعله دائرياً بشكل أنيق
         />
         <span>وسط الضباب</span>
