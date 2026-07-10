@@ -2,20 +2,34 @@
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Cairo } from "next/font/google"; // 🔴 تغيير الخط ليدعم اللغة العربية بشكل أنيق
+import { Cairo } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
+import { Analytics } from "@vercel/analytics/next"; // 🔴 استدعاء أداة التحليلات لبيئة Next.js
 
 import "./globals.css";
 
-// 🔴 تهيئة الخط العربي
 const cairo = Cairo({ subsets: ["arabic"] });
 
+// 🔴 إضافة إعدادات الـ SEO المتقدمة للواتساب ومواقع التواصل
 export const metadata: Metadata = {
-  title: `مدونة تأملات | أحمد شاكر`, // 🔴 تعريب عنوان الموقع الأساسي
-  description: `مدونة شخصية للمقالات الفلسفية والدينية`, // 🔴 تعريب الوصف
+  title: `تأملات وسط الضباب | أحمد شاكر`,
+  description: `قراءة هادئة في زحام الحياة. مقالات فلسفية ودينية تسعى لإصلاح النفس والمجتمع بعيداً عن صخب اليوميات.`,
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    title: `تأملات وسط الضباب | أحمد شاكر`,
+    description: `قراءة هادئة في زحام الحياة. مقالات فلسفية ودينية تسعى لإصلاح النفس والمجتمع بعيداً عن صخب اليوميات.`,
+    url: "https://ahmedshaker.org",
+    siteName: "تأملات وسط الضباب",
+    images: [
+      {
+        url: HOME_OG_IMAGE_URL, // سيتم ربطه لاحقاً بصورة اللوجو الخاص بك
+        width: 1200,
+        height: 630,
+        alt: "تأملات وسط الضباب - أحمد شاكر",
+      },
+    ],
+    locale: "ar_EG",
+    type: "website",
   },
 };
 
@@ -25,7 +39,6 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    // 🔴 إضافة lang="ar" و dir="rtl" لقلب اتجاه الموقع بالكامل
     <html lang="ar" dir="rtl" suppressHydrationWarning>
       <head>
         <link
@@ -61,12 +74,12 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        // 🔴 استخدام الخط العربي الجديد في كامل الموقع
         className={cn(cairo.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
         <Footer />
+        <Analytics /> {/* 🔴 تفعيل أداة التحليلات لترصد الزيارات في كل الصفحات */}
       </body>
     </html>
   );
