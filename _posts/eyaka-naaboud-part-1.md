@@ -57,3 +57,26 @@ ogImage:
 هل ستنام في السيارة على أمل أن تجد حلاً في الصباح؟ أم أنك ستتوكل على الله وتستعين به وحده، وتتحرك بالسيارة في طريق وعر ومظلم، لا يمكن العودة منه أبداً؟
 
 حسب إجابتك، سنبدأ في الحلقة القادمة بفتح أول عوالم *"إياك نعبد وإياك نستعين"*.
+
+---
+
+### 📺 شاهد الجزء الأول عبر يوتيوب
+
+<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginTop: "20px", marginBottom: "40px" }}>
+  <iframe 
+    src="https://www.youtube.com/embed/7akDEB1buFo" 
+    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", borderRadius: "10px" }} 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen>
+  </iframe>
+</div>
+
+---
+
+### 🔗 أجزاء سلسلة "عوالم إياك نعبد وإياك نستعين"
+* **الجزء الأول:** عتبات الدخول: هل العقل والمنطق هما الطريق؟ *(أنت تقرأه الآن)*
+* **الجزء الثاني:** [قريباً: سيتم إضافة العنوان والرابط هنا](#)
+* **الجزء الثالث:** [قريباً: سيتم إضافة العنوان والرابط هنا](#)
+
+*(سنقوم بتحديث هذه القائمة بروابط المقالات الجديدة فور نشرها لتصبح دليلاً كاملاً للقارئ).*
