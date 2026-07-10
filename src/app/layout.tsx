@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import { Cairo } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/next";
 
 import "./globals.css";
 
