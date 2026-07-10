@@ -13,6 +13,8 @@ const cairo = Cairo({ subsets: ["arabic"] });
 
 // 🔴 إضافة إعدادات الـ SEO المتقدمة للواتساب ومواقع التواصل
 export const metadata: Metadata = {
+  // 🔴 هذا هو السطر الذهبي الذي سيحل مشكلة اختفاء الصور في تطبيقات التواصل
+  metadataBase: new URL("https://ahmedshaker.org"), 
   title: `تأملات وسط الضباب | أحمد شاكر`,
   description: `قراءة هادئة في زحام الحياة. مقالات فلسفية ودينية تسعى لإصلاح النفس والمجتمع بعيداً عن صخب اليوميات.`,
   openGraph: {
