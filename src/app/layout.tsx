@@ -1,17 +1,19 @@
+// src/app/layout.tsx
 import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Cairo } from "next/font/google"; // 🔴 تغيير الخط ليدعم اللغة العربية بشكل أنيق
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+// 🔴 تهيئة الخط العربي
+const cairo = Cairo({ subsets: ["arabic"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `مدونة تأملات | أحمد شاكر`, // 🔴 تعريب عنوان الموقع الأساسي
+  description: `مدونة شخصية للمقالات الفلسفية والدينية`, // 🔴 تعريب الوصف
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -23,7 +25,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    // 🔴 إضافة lang="ar" و dir="rtl" لقلب اتجاه الموقع بالكامل
+    <html lang="ar" dir="rtl" suppressHydrationWarning>
       <head>
         <link
           rel="apple-touch-icon"
@@ -58,7 +61,8 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        // 🔴 استخدام الخط العربي الجديد في كامل الموقع
+        className={cn(cairo.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
