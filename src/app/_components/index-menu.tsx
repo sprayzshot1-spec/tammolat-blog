@@ -229,6 +229,128 @@ export default function IndexMenu() {
                     </li>
                   </ul>
                 </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">انا والآخر ( إشكالية العقل والنقل )</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-5" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الخامس
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-6" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السادس
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-7" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السابع
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-8" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثامن
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-9" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء التاسع
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-10" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء العاشر
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-11" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الحادي عشر
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-12" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني عشر
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/me-and-other-part-13" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني عشر
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
