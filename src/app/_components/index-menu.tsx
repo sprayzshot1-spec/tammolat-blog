@@ -351,6 +351,47 @@ export default function IndexMenu() {
                     </li>
                   </ul>
                 </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">التحذير الأخير</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/final-warning-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: ترمينيتور 84
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/final-warning-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: اضحك وابكي
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/final-warning-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: وشهد شاهد من أهلها
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/final-warning-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع: الإله..الإنسان.. الآلة
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
