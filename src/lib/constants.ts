@@ -1,5 +1,5 @@
 export const EXAMPLE_PATH = "blog-starter";
-export const CMS_NAME = "Markdown";
+export const CMS_NAME = "Ahmed Shaker";
 
 // 🔴 تم وضع الرابط كاملاً لضمان قراءته في كل المنصات بدون أخطاء دمج
 export const HOME_OG_IMAGE_URL = "https://ahmedshaker.org/images/og-image.png"; 
