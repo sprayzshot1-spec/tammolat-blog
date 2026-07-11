@@ -6,6 +6,7 @@ import { Cairo } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 import { Analytics } from "@vercel/analytics/next";
+import IndexMenu from "./_components/index-menu";
 
 import "./globals.css";
 
@@ -83,6 +84,7 @@ export default function RootLayout({
         className={cn(cairo.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
         <ThemeSwitcher />
+        <IndexMenu /> {/* 🔴 إضافة الفهرس الجانبي العائم هنا */}
         <div className="min-h-screen">{children}</div>
         <Footer />
         <Analytics /> {/* 🔴 تفعيل أداة التحليلات لترصد الزيارات في كل الصفحات */}
