@@ -123,6 +123,110 @@ export default function IndexMenu() {
                         - الجزء الخامس
                       </Link>
                     </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-6" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السادس
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-7" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السابع
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-8" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثامن
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-9" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء التاسع: جندي الرعب
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-10" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء العاشر: سر المغضوب عليهم
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2"> رقعة الشطرنج الأخيرة</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/last-chessboard-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: أول حجر دومينو
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/last-chessboard-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: لماذا بدأت القصة من بابل؟
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/last-chessboard-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: شفرة الهيكل
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/last-chessboard-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع: معادلة الإسراء
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/last-chessboard-part-5" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الخامس: لماذا لا تتطابق التفسيرات ؟
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/last-chessboard-part-6" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السادس: التاريخ الخفي؟
+                      </Link>
+                    </li>
                   </ul>
                 </li>
               </ul>
