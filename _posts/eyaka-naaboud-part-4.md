@@ -2,7 +2,7 @@
 title: "الجزء الرابع | عوالم اياك نعبد واياك نستعين"
 excerpt: " مفاتيح عوالم اياك نعبد واياك نستعين ( المفتاح الرابع )  اهلا وسهلا بحضراتكم وقفنا في الحلقة السابقة حول المفتاح الثالث ..."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail4.jpg"
-date: "2026-07-11T15:59:06.000Z"
+date: "2026-07-11T17:09:59.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -103,3 +103,8 @@ youtubeUrl: "https://youtu.be/S95Zuq-C8YA"
 * [الجزء الثالث](/posts/eyaka-naaboud-part-3)
 * **الجزء الرابع** *(أنت تقرأه الآن)*
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)
+* [الجزء السادس](/posts/eyaka-naaboud-part-6)
+* [الجزء السابع](/posts/eyaka-naaboud-part-7)
+* [الجزء الثامن](/posts/eyaka-naaboud-part-8)
+* [الجزء التاسع: جندي الرعب](/posts/eyaka-naaboud-part-9)
+* [الجزء العاشر: سر المغضوب عليهم](/posts/eyaka-naaboud-part-10)

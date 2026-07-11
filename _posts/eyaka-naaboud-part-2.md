@@ -2,7 +2,7 @@
 title: "الجزء الثاني: التدريب وتدرج اليقين | عوالم اياك نعبد واياك نستعين"
 excerpt: "في العصور المتأخرة، زاد النشاط البحثي القرآني بشكل ملحوظ، وظهر ما يُسمى بـ 'الإعجاز العلمي في القرآن الكريم'، والذي برزت..."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail2.jpg"
-date: "2026-07-11T15:59:06.000Z"
+date: "2026-07-11T17:09:59.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -61,3 +61,8 @@ youtubeUrl: "https://www.youtube.com/watch?v=R-UBe_obCgo"
 * [الجزء الثالث](/posts/eyaka-naaboud-part-3)
 * [الجزء الرابع](/posts/eyaka-naaboud-part-4)
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)
+* [الجزء السادس](/posts/eyaka-naaboud-part-6)
+* [الجزء السابع](/posts/eyaka-naaboud-part-7)
+* [الجزء الثامن](/posts/eyaka-naaboud-part-8)
+* [الجزء التاسع: جندي الرعب](/posts/eyaka-naaboud-part-9)
+* [الجزء العاشر: سر المغضوب عليهم](/posts/eyaka-naaboud-part-10)
