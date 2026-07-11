@@ -8,6 +8,7 @@ import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import YouTubePromo from "@/app/_components/YouTubePromo"; // 🔴 استدعاء مكون مشغل الفيديو
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -32,6 +33,12 @@ export default async function Post(props: Params) {
             author={post.author}
           />
           <PostBody content={content} />
+          
+          {/* 🔴 عرض مشغل الفيديو في نهاية المقال إذا كان الرابط موجوداً في ترويسة المقال */}
+          {post.youtubeUrl && (
+             <YouTubePromo videoUrl={post.youtubeUrl} title="شاهد هذا الجزء عبر يوتيوب" />
+          )}
+
         </article>
       </Container>
     </main>
@@ -52,7 +59,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${post.title} | ${CMS_NAME}`;
 
   return {
     title,

@@ -7,7 +7,8 @@ author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
 ogImage:
-  url: "/assets/blog/eyaka-naaboud/thumbnail.jpg"
+  url: "/assets/blog/eyaka-naaboud/thumbnail1.jpg"
+youtubeUrl: "https://www.youtube.com/watch?v=7akDEB1buFo"
 ---
 
 في العصور المتأخرة، زاد النشاط البحثي القرآني بشكل ملحوظ، وظهر ما يُسمى بـ "الإعجاز العلمي في القرآن الكريم"، والذي برزت فيه قامات علمية كبيرة مثل الدكتور زغلول النجار وغيره الكثير. وبالتوازي مع ذلك، تجلت إبداعات المفكرين الإسلاميين الذين سعوا لربط العقل والفكر النقدي بنصوص القرآن والسنة، على اختلاف مشاربهم وتوجهاتهم.
@@ -42,12 +43,6 @@ ogImage:
 
 خطابي هذا موجه للمسلم، ولأي صاحب دين آخر، بل وحتى لمن لا يؤمن بوجود إله أصلاً، كما سيتبين لنا لاحقاً.
 
-<br/>
-
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/7akDEB1buFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-
 ### سؤال لا مفر منه
 سأختم هذه المقدمة بسؤال واحد، يجب أن تسأله لنفسك بكل تجرد، وبناءً على قرارك وردك، ستُبنى سلسلة مفاتيحنا القادمة:
 
@@ -57,20 +52,6 @@ ogImage:
 هل ستنام في السيارة على أمل أن تجد حلاً في الصباح؟ أم أنك ستتوكل على الله وتستعين به وحده، وتتحرك بالسيارة في طريق وعر ومظلم، لا يمكن العودة منه أبداً؟
 
 حسب إجابتك، سنبدأ في الحلقة القادمة بفتح أول عوالم *"إياك نعبد وإياك نستعين"*.
-
----
-
-### 📺 شاهد الجزء الأول عبر يوتيوب
-
-<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginTop: "20px", marginBottom: "40px" }}>
-  <iframe 
-    src="https://www.youtube.com/embed/7akDEB1buFo" 
-    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", borderRadius: "10px" }} 
-    frameBorder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowFullScreen>
-  </iframe>
-</div>
 
 ---
 
