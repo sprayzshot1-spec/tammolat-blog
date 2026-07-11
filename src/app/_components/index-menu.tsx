@@ -96,6 +96,33 @@ export default function IndexMenu() {
                         - الجزء الثاني: التدريب وتدرج اليقين
                       </Link>
                     </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/eyaka-naaboud-part-5" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الخامس
+                      </Link>
+                    </li>
                   </ul>
                 </li>
               </ul>
