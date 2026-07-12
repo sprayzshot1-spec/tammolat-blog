@@ -392,6 +392,84 @@ export default function IndexMenu() {
                     </li>
                   </ul>
                 </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">الهرم المقلوب</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/inverted-pyramid-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: صورة تخيلية
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/inverted-pyramid-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: اكبر اختبار جماعي في التاريخ
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/inverted-pyramid-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: مخبا القيامة 
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">طاقة التكوين</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/creation-energy-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: بين السلب والايجاب
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/creation-energy-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: ملف اسكوديرو 
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">التفكير الجانبي</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/lateral-thinking-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: العقل والجمال
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/lateral-thinking-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: في الميزان المرض النفسي
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
