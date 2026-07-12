@@ -2,7 +2,7 @@
 title: "الجزء الأول | ملك الارض السابعة (قصة قصيرة)"
 excerpt: "عام 1356 قبل الميلاد – مصر القديمة  استيقظت نفرتيتي الجميلة على حلم مزعج واسرعت مهرولة الي رئيس الكهنة وطرقت عليه الباب ..."
 coverImage: "/assets/blog/seventh-land/thumbnail1.jpg"
-date: "2026-07-12T23:38:40.000Z"
+date: "2026-07-12T23:45:20.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -187,14 +187,14 @@ youtubeUrl: "https://youtu.be/NNal6S5epm0"
 
 النهاية.
 
-الجزء الاول
-https://youtu.be/NNal6S5epm0
-
-الجزء الثاني
-https://youtu.be/Gk8d_satB1I
-
-الجزء الثالث
-https://youtu.be/neHLK2-Anis
-
-كامل دون صوت
+الجزء الاول<br>
+https://youtu.be/NNal6S5epm0<br>
+<br>
+الجزء الثاني<br>
+https://youtu.be/Gk8d_satB1I<br>
+<br>
+الجزء الثالث<br>
+https://youtu.be/neHLK2-Anis<br>
+<br>
+كامل دون صوت<br>
 https://youtu.be/TLyg6TGFZvc
