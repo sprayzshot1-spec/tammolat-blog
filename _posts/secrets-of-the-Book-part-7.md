@@ -2,7 +2,7 @@
 title: "الجزء السابع: يوسف في مواجهة الجن | أسرار العلم من الكتاب"
 excerpt: "واستكمالا لموضوع (أسرار العلم من الكتاب ) لقد تحدثنا عن يوسف عليه السلام وعطاء الله له العلم من الكتاب لعلمي الغيب المطل..."
 coverImage: "/assets/blog/secrets-of-the-Book/thumbnail7.jpg"
-date: "2026-07-13T18:18:19.000Z"
+date: "2026-07-13T18:45:53.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -75,7 +75,7 @@ youtubeUrl: "https://youtu.be/lmwETo1Z0p0"
 
 
 
-[لمشاهدة جميع الاجزاء معا اضغط علي الرابط](https://youtu.be/oS7PyizoFno)  
+## [لمشاهدة جميع الاجزاء معا اضغط علي الرابط](https://youtu.be/oS7PyizoFno)  
 
 
 ---

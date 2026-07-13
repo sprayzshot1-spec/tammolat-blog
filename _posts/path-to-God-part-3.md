@@ -2,7 +2,7 @@
 title: "الجزء الثالث: النسبية | الطريق الي الله"
 excerpt: "وكما ذكرنا في الفصل السابق قال صديقي لو فكر الانسان واعمل عقله جيدا مجتهدا سيصل كما وصلت ارقي العقول في العالم الي انكار..."
 coverImage: "/assets/blog/path-to-God/thumbnail3.jpg"
-date: "2026-07-13T18:17:19.000Z"
+date: "2026-07-13T18:44:53.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -41,7 +41,7 @@ youtubeUrl: "https://youtu.be/KTl6pmBUJmM"
 
 دمتم علي خير وتابعونا في الفصل التالي ان شاء الله
 
-[لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/BsAFtzw6MHk)  
+## [لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/BsAFtzw6MHk)  
 
 ---
 

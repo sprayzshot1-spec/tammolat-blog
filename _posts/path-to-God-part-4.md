@@ -2,7 +2,7 @@
 title: "الجزء الرابع: استيفن هوكينج | الطريق الي الله"
 excerpt: "وكما ذكرنا فقد خضنا في سحر البرت اينشتاين ولقد بهرنا بعده في مجال الكونيات استيفن هوكينج وهو العالم الاشهر في هذا المجال..."
 coverImage: "/assets/blog/path-to-God/thumbnail4.jpg"
-date: "2026-07-13T18:17:19.000Z"
+date: "2026-07-13T18:44:53.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -38,7 +38,7 @@ youtubeUrl: "https://youtu.be/GbtefJrUI6Y"
 
 دمتم علي خير وتابعونا في الفصل التالي ان شاء الله
 
-[لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/BsAFtzw6MHk)  
+## [لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/BsAFtzw6MHk)  
 
 ---
 
