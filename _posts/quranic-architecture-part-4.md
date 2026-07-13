@@ -2,7 +2,7 @@
 title: "الجزء الرابع: الثابت والمتغير | معمارية القران"
 excerpt: "واستكمالا لموضوع معمارية القران توقفنا في الحلقة السابقة عند مفهوم العقل والقلب في القران ولقد قلنا ان الله واحد احد لا ..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail4.jpg"
-date: "2026-07-13T23:03:59.000Z"
+date: "2026-07-13T18:10:19.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

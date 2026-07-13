@@ -2,7 +2,7 @@
 title: "الجزء الأول: ما لم يذكر من قبل | معمارية القران"
 excerpt: "معمارية القرآن معمارية او بنية القرآن منذ فترة طويلة من الزمن وانا افكر في هذا الموضوع ولقد ترددت كثيرا في نشر هذا الموض..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail1.jpg"
-date: "2026-07-13T23:06:59.000Z"
+date: "2026-07-13T18:10:19.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

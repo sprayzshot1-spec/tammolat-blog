@@ -2,7 +2,7 @@
 title: "الجزء الثالث: بين العقل والقلب | معمارية القران"
 excerpt: "واستكمالا لموضوع معمارية القران توقفنا في الحلقة السابقة عند مفهوم قانون الزوجية ونجد مفهوم الزوجية مكون اساسي  في معمار..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail3.jpg"
-date: "2026-07-13T23:04:59.000Z"
+date: "2026-07-13T18:10:19.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
