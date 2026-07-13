@@ -557,6 +557,320 @@ export default function IndexMenu() {
                     </li>
                   </ul>
                 </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">عندما يختار الله الحاكم</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/god-chooses-ruler-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: طالوت
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/god-chooses-ruler-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: الفيلسوف
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/god-chooses-ruler-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: الديمقراطية
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/god-chooses-ruler-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع: السادات
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">معمارية القران</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/quranic-architecture-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: ما لم يذكر من قبل
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/quranic-architecture-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: قانون الزوجية
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/quranic-architecture-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: بين العقل والقلب
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/quranic-architecture-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع: الثابت والمتغير
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/quranic-architecture-part-5" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الخامس: الجسد والروح والنفس
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/quranic-architecture-part-6" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السادس: الاكوان المتوازية
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">أسرار العلم من الكتاب</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول:  في مواجهة العفريت
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: برخيا في مواجهة أينشتاين
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: روندا بايرن في مواجهة القلم
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع: يوشع بن نون
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-5" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الخامس: الخواص في مواجهة جوجل
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-6" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السادس: يوسف في مواجهة نوستراداموس
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/secrets-of-the-Book-part-7" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السابع: يوسف في مواجهة الجن
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">لعنة رصد الفراعنة</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/curse-of-pharaohs-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: البدايات
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/curse-of-pharaohs-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: إيميلي روز
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/curse-of-pharaohs-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: الصنف الرابع
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">إشارات المهدي في القراّن</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/signs-of-Mahdi-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: ما لم يذكر من قبل
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">الطريق الي الله</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: احدي ليالي الشتاء
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: فضاء معرفي لفهم الآخر
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: النسبية
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-4" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الرابع: استيفن هوكينج
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-5" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الخامس: جيمس واتسن
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-6" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السادس: حسن فتحي
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/path-to-God-part-7" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء السابع: الديالكتيك
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">تاريخ المسيخ الدجال</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/history-of-antichrist-part-1" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: فتنة المسيخ
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/history-of-antichrist-part-2" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: ميلاد المسيخ الدجال
+                      </Link>
+                    </li>
+                    <li>
+                      <Link 
+                        href="/posts/history-of-antichrist-part-3" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثالث: يوشع بن نون
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
