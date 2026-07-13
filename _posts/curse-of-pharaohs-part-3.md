@@ -2,7 +2,7 @@
 title: "الجزء الثالث: الصنف الرابع | لعنة رصد الفراعنة"
 excerpt: "ومما تقدم يثبت استخدام الفراعنة للسحر وتسخير الجن في البناء والحراسة وخلافه وهو ما قد يفسر في رفع الفراعنة لبعض الاحجار ..."
 coverImage: "/assets/blog/curse-of-pharaohs/thumbnail3.jpg"
-date: "2026-07-13T18:24:19.000Z"
+date: "2026-07-13T18:32:53.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -63,7 +63,7 @@ youtubeUrl: "https://youtu.be/Rn2Pw-FvLu0"
 
 دمتم علي خير وتابعونا في الفصل التالي ان شاء الله
 
-[لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/lbga1MdZAB8)  
+## [لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/lbga1MdZAB8)  
 
 ---
 

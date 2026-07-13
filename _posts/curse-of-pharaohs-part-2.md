@@ -2,7 +2,7 @@
 title: "الجزء الثاني: إيميلي روز | لعنة رصد الفراعنة"
 excerpt: "ولعل قضية إيميلي روز الشهيرة كما جسدتها السينما الامريكية او أناليس ميشيل الاسم الحقيقي لها وتحكي هذا الصراع بين مويد وم..."
 coverImage: "/assets/blog/curse-of-pharaohs/thumbnail2.jpg"
-date: "2026-07-13T18:24:19.000Z"
+date: "2026-07-13T18:32:53.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -70,7 +70,7 @@ youtubeUrl: "https://youtu.be/v9rfetHsyVY"
 وَقال تعالي: { وَالشَّيَاطِين كُلّ بَنَّاء وَغَوَّاص }
 
 
-[لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/lbga1MdZAB8)  
+## [لمشاهدة الاجزاء كلها معا اضغط علي الرابط](https://youtu.be/lbga1MdZAB8)  
 
 ---
 
