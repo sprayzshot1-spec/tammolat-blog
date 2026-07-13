@@ -2,7 +2,7 @@
 title: "الجزء الأول: فتنة المسيخ | تاريخ المسيخ الدجال"
 excerpt: "هل ولد المسيخ الدجال حقا ام انه سيظهر في اخر الزمان وهل حقا فتنته كما قال البعض في اخر الزمان مدة لا تتجاوز سنة او اكثر ..."
 coverImage: "/assets/blog/history-of-antichrist/thumbnail1.jpg"
-date: "2026-07-13T18:09:19.000Z"
+date: "2026-06-27T22:20:52.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

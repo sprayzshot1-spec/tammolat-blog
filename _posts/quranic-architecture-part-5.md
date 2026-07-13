@@ -2,7 +2,7 @@
 title: "الجزء الخامس: الجسد والروح والنفس | معمارية القران"
 excerpt: "واستكمالا لموضوع معمارية القران تحدثنا عن مفهوم قانون الزوجية ولقد قلنا ان الله واحد احد لا يتجزا خلق ما دونه مغاير لذات..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail5.jpg"
-date: "2026-07-13T18:10:19.000Z"
+date: "2026-06-28T22:08:51.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
