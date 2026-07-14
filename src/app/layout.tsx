@@ -7,6 +7,7 @@ import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 import { Analytics } from "@vercel/analytics/next";
 import IndexMenu from "./_components/index-menu";
+import Script from "next/script"; // 🔴 استدعاء مكون السكربت الذكي من Next.js
 
 import "./globals.css";
 
@@ -48,6 +49,17 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl" suppressHydrationWarning>
       <head>
+        {/* 🔴 كود Google Analytics */}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-4N1F2F5R4R" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-4N1F2F5R4R');
+          `}
+        </Script>
+
         <link
           rel="apple-touch-icon"
           sizes="180x180"
