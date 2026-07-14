@@ -60,12 +60,15 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   }
 
   const title = `${post.title} | ${CMS_NAME}`;
+  
+  // 🔴 التعديل السحري: دمج رابط الموقع الكامل مع تشفير المسار (ليتمكن واتساب الموبايل من قراءة المجلدات العربية للصور)
+  const fullImageUrl = `https://www.ahmedshaker.org${encodeURI(post.ogImage.url)}`;
 
   return {
     title,
     openGraph: {
       title,
-      images: [post.ogImage.url],
+      images: [fullImageUrl],
     },
   };
 }
