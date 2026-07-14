@@ -2,7 +2,7 @@
 title: "الجزء الثالث: يوشع بن نون | تاريخ المسيخ الدجال"
 excerpt: "# يوشع بن نون  كان يوشع بن نون عليه السلام قائد بني إسرائيل بعد موت موسى عليه السلام. وهو الذي خرج ببني إسرائيل من التيه..."
 coverImage: "/assets/blog/history-of-antichrist/thumbnail3.jpg"
-date: "2026-06-28T15:37:22.000Z"
+date: "2026-06-28T16:59:55.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

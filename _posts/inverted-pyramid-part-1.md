@@ -2,7 +2,7 @@
 title: "الجزء الأول: صورة تخيلية | الهرم المقلوب"
 excerpt: "# الهرم المقلوب ..صورة تخيلية بقلم أحمد شاكر  ## سيناريو محتمل وردود أفعال متوقعة  أعتقد لو استيقظنا صباحًا ووجدنا إسرائ..."
 coverImage: "/assets/blog/inverted-pyramid/thumbnail1.jpg"
-date: "2026-07-05T15:43:05.000Z"
+date: "2026-07-05T17:05:37.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

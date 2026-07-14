@@ -2,7 +2,7 @@
 title: "الجزء الثالث: بين العقل والقلب | معمارية القران"
 excerpt: "# معمارية القرآن وقانون الزوجية  ## مقدمة عن قانون الزوجية في القرآن  واستكمالًا لموضوع معمارية القرآن، توقفنا في الحلقة..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail3.jpg"
-date: "2026-06-29T15:37:14.000Z"
+date: "2026-06-29T16:59:47.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
