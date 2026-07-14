@@ -2,7 +2,7 @@
 title: "الجزء الأول: البدايات | لعنة رصد الفراعنة"
 excerpt: "# ما هي لعنة الفراعنة وما هو الرصد الفرعوني؟  ## هوس التنقيب عن الكنوز وضحايا الظاهرة  ما زال هوس التنقيب عن الآثار، بحث..."
 coverImage: "/assets/blog/curse-of-pharaohs/thumbnail1.jpg"
-date: "2026-07-13T13:51:35.000Z"
+date: "2026-07-13T15:43:19.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

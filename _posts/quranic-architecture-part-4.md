@@ -2,7 +2,7 @@
 title: "الجزء الرابع: الثابت والمتغير | معمارية القران"
 excerpt: "# معمارية القرآن: قانون الثابت والمتغير ومحورية الله  واستكمالًا لموضوع معمارية القرآن، توقفنا في الحلقة السابقة عند مفه..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail4.jpg"
-date: "2026-06-29T13:42:34.000Z"
+date: "2026-06-29T15:34:15.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

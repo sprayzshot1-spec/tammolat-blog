@@ -2,7 +2,7 @@
 title: "الجزء الثاني: قانون الزوجية | معمارية القران"
 excerpt: "# معمارية القرآن: استكشاف البنية الفريدة  واستكمالاً لموضوع معمارية القرآن، توقفنا في الحلقة السابقة عند المراد من الموض..."
 coverImage: "/assets/blog/quranic-architecture/thumbnail2.jpg"
-date: "2026-06-29T13:48:34.000Z"
+date: "2026-06-29T15:40:14.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

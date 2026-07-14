@@ -2,7 +2,7 @@
 title: "الجزء الأول: فتنة المسيخ | تاريخ المسيخ الدجال"
 excerpt: "# المسيح الدجال: أسئلة حول الظهور، الفتنة، والمنتظر  ## المسيح الدجال: حقيقة الظهور ومُدة الفتنة  هل وُلد المسيح الدجال ..."
 coverImage: "/assets/blog/history-of-antichrist/thumbnail1.jpg"
-date: "2026-06-28T13:51:35.000Z"
+date: "2026-06-28T15:43:22.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
