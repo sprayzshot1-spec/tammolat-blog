@@ -8,7 +8,7 @@ import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
-import YouTubePromo from "@/app/_components/YouTubePromo"; // 🔴 استدعاء مكون مشغل الفيديو
+import YouTubePromo from "@/app/_components/YouTubePromo";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -61,15 +61,33 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
 
   const title = `${post.title} | ${CMS_NAME}`;
   
-  // 🔴 التعديل السحري: دمج رابط الموقع الكامل مع تشفير المسار (ليتمكن واتساب الموبايل من قراءة المجلدات العربية للصور)
-  const fullImageUrl = `https://www.ahmedshaker.org${encodeURI(post.ogImage.url)}`;
+  // 🔴 دمج رابط الموقع الكامل مع تشفير المسار
+  const fullImageUrl = `https://www.ahmedshaker.org${encodeURI(post.ogImage?.url || '')}`;
+
+  // 🔴 سحر الـ SEO: استخراج وصف ديناميكي من محتوى المقال (أول 150 حرف) لعدم وجود ملخص جاهز
+  const plainTextContent = post.content 
+    ? post.content.replace(/<[^>]+>/g, '').replace(/[#*_\[\]]/g, '').replace(/\n/g, ' ').trim() 
+    : '';
+  const description = plainTextContent.length > 0 
+    ? plainTextContent.substring(0, 150) + '...'
+    : 'مقال فلسفي وديني يتناول تأملات وأفكار عميقة للكاتب أحمد شاكر.';
 
   return {
     title,
+    description, // 🔴 إضافة الوصف لمحركات البحث (جوجل)
     openGraph: {
       title,
+      description, // 🔴 إضافة الوصف لمنصات التواصل (فيسبوك، واتساب، تويتر)
       images: [fullImageUrl],
+      url: `https://www.ahmedshaker.org/posts/${post.slug}`,
+      type: 'article',
     },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [fullImageUrl],
+    }
   };
 }
 
