@@ -64,20 +64,24 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   // 🔴 دمج رابط الموقع الكامل مع تشفير المسار
   const fullImageUrl = `https://www.ahmedshaker.org${encodeURI(post.ogImage?.url || '')}`;
 
-  // 🔴 سحر الـ SEO: استخراج وصف ديناميكي من محتوى المقال (أول 150 حرف) لعدم وجود ملخص جاهز
-  const plainTextContent = post.content 
-    ? post.content.replace(/<[^>]+>/g, '').replace(/[#*_\[\]]/g, '').replace(/\n/g, ' ').trim() 
-    : '';
-  const description = plainTextContent.length > 0 
-    ? plainTextContent.substring(0, 150) + '...'
-    : 'مقال فلسفي وديني يتناول تأملات وأفكار عميقة للكاتب أحمد شاكر.';
+  // 🔴 سحر الـ SEO: الأولوية للملخص الذكي (post.excerpt)، وإلا القص التلقائي
+  let description = post.excerpt;
+  
+  if (!description) {
+    const plainTextContent = post.content 
+      ? post.content.replace(/<[^>]+>/g, '').replace(/[#*_\[\]]/g, '').replace(/\n/g, ' ').trim() 
+      : '';
+    description = plainTextContent.length > 0 
+      ? plainTextContent.substring(0, 150) + '...'
+      : 'مقال فلسفي وديني يتناول تأملات وأفكار عميقة للكاتب أحمد شاكر.';
+  }
 
   return {
     title,
-    description, // 🔴 إضافة الوصف لمحركات البحث (جوجل)
+    description,
     openGraph: {
       title,
-      description, // 🔴 إضافة الوصف لمنصات التواصل (فيسبوك، واتساب، تويتر)
+      description,
       images: [fullImageUrl],
       url: `https://www.ahmedshaker.org/posts/${post.slug}`,
       type: 'article',
