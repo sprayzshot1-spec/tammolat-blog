@@ -2,7 +2,7 @@
 title: "الجزء السادس: الاكوان المتوازية | معمارية القران"
 excerpt: "معمارية القرآن تكشف أسرارًا كونية مذهلة. هل تُخفي آياته إشارة لوجود أكوان متوازية وأبعاد أخرى داخل أرضنا؟"
 coverImage: "/assets/blog/quranic-architecture/thumbnail6.jpg"
-date: "2026-06-30T16:10:37.000Z"
+date: "2026-07-01T02:49:20.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

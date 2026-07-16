@@ -2,7 +2,7 @@
 title: "الجزء الثالث: بين العقل والقلب | معمارية القران"
 excerpt: "معمارية القرآن الفريدة تخبئ سرًا عظيمًا. اكتشف كيف يوازن بين القلب والعقل عبر 'قانون الزوجية' ليمنحك اتزانًا دائمًا."
 coverImage: "/assets/blog/quranic-architecture/thumbnail3.jpg"
-date: "2026-06-30T16:19:36.000Z"
+date: "2026-07-01T02:58:19.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

@@ -2,7 +2,7 @@
 title: "الجزء الثاني: في الميزان المرض النفسي | التفكير الجانبي"
 excerpt: "عندما لا تكفي الأدوية.. اكتشف الأبعاد الروحانية الخفية للأمراض النفسية وكيف يغفلها الطب التقليدي."
 coverImage: "/assets/blog/lateral-thinking/thumbnail2.jpg"
-date: "2026-07-04T16:22:32.000Z"
+date: "2026-07-05T03:01:14.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

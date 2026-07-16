@@ -2,7 +2,7 @@
 title: "الجزء الثالث: يوشع بن نون | تاريخ المسيخ الدجال"
 excerpt: "قصص لا تُصدق قادت بني إسرائيل: من معجزة يوشع وحصار أورشليم، لبطولة داود. هل ربط هرتزل هذه النبوءات بمستقبلهم؟ اكتشف!"
 coverImage: "/assets/blog/history-of-antichrist/thumbnail3.jpg"
-date: "2026-06-29T16:19:41.000Z"
+date: "2026-06-30T02:58:24.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

@@ -2,7 +2,7 @@
 title: "الجزء الأول: عصر الظلمات | هاروت وماروت"
 excerpt: "أُتهم سليمان بالسحر! فما قصة هاروت وماروت، وكيف انتشر هذا الفن الخطير؟ اكتشف الحقيقة الكاملة."
 coverImage: "/assets/blog/harut-and-marut/thumbnail1.jpg"
-date: "2026-07-03T16:25:33.000Z"
+date: "2026-07-04T03:04:15.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

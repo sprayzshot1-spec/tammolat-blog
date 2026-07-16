@@ -2,7 +2,7 @@
 title: "الجزء الأول: في مواجهة العفريت | أسرار العلم من الكتاب"
 excerpt: "هل تساءلت يومًا عن العلم من الكتاب؟ غص معنا في آياته وسر قوة تتجاوز الطبيعة، فكشف هذا العلم عرش بلقيس بطرفة عين!"
 coverImage: "/assets/blog/secrets-of-the-Book/thumbnail1.jpg"
-date: "2026-07-08T16:25:37.000Z"
+date: "2026-07-09T03:04:20.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

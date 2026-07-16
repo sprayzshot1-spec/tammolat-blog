@@ -2,7 +2,7 @@
 title: "الجزء الأول: العقل والجمال | التفكير الجانبي"
 excerpt: "هل تشعر أنك فاشل في نظم التعليم والعمل؟ ربما أنت عبقري تفكير جانبي، يمتلك مفتاح الإبداع الحقيقي!"
 coverImage: "/assets/blog/lateral-thinking/thumbnail1.jpg"
-date: "2026-07-04T16:25:32.000Z"
+date: "2026-07-05T03:04:14.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

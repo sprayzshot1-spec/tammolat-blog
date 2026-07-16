@@ -2,7 +2,7 @@
 title: "الجزء الثاني: سحر التخييل | هاروت وماروت"
 excerpt: "سحر التخييل: قدرة غريبة تجعل المستحيل حقيقة أمام عينيك! اكتشف كيف أثر هذا السحر على الأنبياء موسى والنبي محمد."
 coverImage: "/assets/blog/harut-and-marut/thumbnail2.jpg"
-date: "2026-07-03T16:22:34.000Z"
+date: "2026-07-04T03:01:16.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
