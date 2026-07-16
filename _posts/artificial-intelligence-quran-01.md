@@ -8,6 +8,7 @@ author:
   picture: "/images/logo.png"
 ogImage:
   url: "/assets/blog/artificial-intelligence-quran/thumbnail1.jpg"
+youtubeUrl: "https://youtu.be/qzVQZ94FheM"
 ---
 
 # الذكاء الاصطناعي يخلق قرآنًا جديدًا: رؤية أحمد شاكر (الجزء الأول)
