@@ -66,7 +66,7 @@ export default function IndexMenu() {
                   <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
                     <li>
                       <Link 
-                        href="/posts/egypt-argentina-01" 
+                        href="/posts/egypt-argentina-02" 
                         className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
                         onClick={() => setIsOpen(false)}
                       >
@@ -867,6 +867,20 @@ export default function IndexMenu() {
                         onClick={() => setIsOpen(false)}
                       >
                         - الجزء الثالث: يوشع بن نون
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div className="font-semibold text-slate-700 dark:text-slate-300 mb-2">الذكاء الاصطناعي يخلق قرأنا جديدا</div>
+                  <ul className="space-y-2 pr-4 border-r border-slate-200 dark:border-slate-700">
+                    <li>
+                      <Link 
+                        href="/posts/artificial-intelligence-quran-01" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الأول: لا شرقية ولا غربية
                       </Link>
                     </li>
                   </ul>

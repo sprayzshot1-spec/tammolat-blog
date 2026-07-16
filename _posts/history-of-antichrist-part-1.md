@@ -2,7 +2,7 @@
 title: "الجزء الأول: فتنة المسيخ | تاريخ المسيخ الدجال"
 excerpt: "الدجال: هل هو واقع نعيشه أم نبوءة بعيدة؟ استكشف خيوط فتنته الكبرى، من جنوده السريين إلى المنتظر، برؤية شاملة تكشف ما لم يُقال."
 coverImage: "/assets/blog/history-of-antichrist/thumbnail1.jpg"
-date: "2026-06-30T03:04:24.000Z"
+date: "2026-06-30T03:26:17.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

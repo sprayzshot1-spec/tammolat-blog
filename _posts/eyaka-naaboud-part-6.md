@@ -2,7 +2,7 @@
 title: "الجزء السادس | عوالم اياك نعبد واياك نستعين"
 excerpt: "هل كل عطاء رضا وكل مصيبة غضب؟ اكتشف أنواع الابتلاءات الخفية في رحلة 'إياك نعبد وإياك نستعين' لتواجهها بثبات."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail6.jpg"
-date: "2026-07-12T02:49:10.000Z"
+date: "2026-07-12T03:11:05.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"

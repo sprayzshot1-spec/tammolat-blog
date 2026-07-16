@@ -2,7 +2,7 @@
 title: "الجزء الخامس: الجسد والروح والنفس | معمارية القران"
 excerpt: "معمارية القرآن تكشف أسرار الجسد، الروح، والنفس. هل النفس نتاج اندماج الروح بالجسد؟ استكشف هذه العلاقة المعقدة."
 coverImage: "/assets/blog/quranic-architecture/thumbnail5.jpg"
-date: "2026-07-01T02:52:19.000Z"
+date: "2026-07-01T03:14:13.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
