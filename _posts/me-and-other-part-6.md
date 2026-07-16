@@ -2,7 +2,7 @@
 title: "الجزء السادس | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "هل أفسد العلم حين انتشر؟ تعرف على صراع الفقه والتصوف، وكيف أدت إشكالية العقل والنقل لحروب فكرية عبر التاريخ."
 coverImage: "/assets/blog/me-and-other/thumbnail6.jpg"
-date: "2026-06-29T03:11:06.000Z"
+date: "2026-06-29T03:20:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -79,7 +79,7 @@ ogImage:
 * [الجزء الثالث](/posts/me-and-other-part-3)
 * [الجزء الرابع](/posts/me-and-other-part-4)
 * [الجزء الخامس](/posts/me-and-other-part-5)
-* **الجزء السادس** *(أنت تقرأه الآن)*
+* **الجزء السادس**2 *(أنت تقرأه الآن)*
 * [الجزء السابع](/posts/me-and-other-part-7)
 * [الجزء الثامن](/posts/me-and-other-part-8)
 * [الجزء التاسع](/posts/me-and-other-part-9)

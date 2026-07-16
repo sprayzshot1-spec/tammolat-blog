@@ -2,7 +2,7 @@
 title: "الجزء الرابع | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "أينشتاين غير مفاهيم الزمن! تخيل أنك تسافر للفضاء وتعود لتجد صديقك قد شاخ سبعين عامًا بينما أنت لم تكبر إلا ساعات. هل أصبحت النسبية مجرد ترند؟"
 coverImage: "/assets/blog/me-and-other/thumbnail4.jpg"
-date: "2026-06-29T03:17:06.000Z"
+date: "2026-06-29T03:26:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -73,7 +73,7 @@ ogImage:
 * [الجزء الأول](/posts/me-and-other-part-1)
 * [الجزء الثاني](/posts/me-and-other-part-2)
 * [الجزء الثالث](/posts/me-and-other-part-3)
-* **الجزء الرابع** *(أنت تقرأه الآن)*
+* **الجزء الرابع**2 *(أنت تقرأه الآن)*
 * [الجزء الخامس](/posts/me-and-other-part-5)
 * [الجزء السادس](/posts/me-and-other-part-6)
 * [الجزء السابع](/posts/me-and-other-part-7)

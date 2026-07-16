@@ -2,7 +2,7 @@
 title: "الجزء الرابع | عوالم اياك نعبد واياك نستعين"
 excerpt: "بين طريقين متعارضين، أحدهما وعر نهايته نور، والآخر مزخرف يخبئ السراب. هذا المقال يكشف دور قلبك الحقيقي في معركتك الكبرى نحو النجاة."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail4.jpg"
-date: "2026-07-12T03:17:05.000Z"
+date: "2026-07-12T03:26:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -140,7 +140,7 @@ youtubeUrl: "https://youtu.be/S95Zuq-C8YA"
 * [الجزء الأول: عتبات الدخول](/posts/eyaka-naaboud-part-1)
 * [الجزء الثاني: التدريب وتدرج اليقين](/posts/eyaka-naaboud-part-2)
 * [الجزء الثالث](/posts/eyaka-naaboud-part-3)
-* **الجزء الرابع** *(أنت تقرأه الآن)*
+* **الجزء الرابع**2 *(أنت تقرأه الآن)*
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)
 * [الجزء السادس](/posts/eyaka-naaboud-part-6)
 * [الجزء السابع](/posts/eyaka-naaboud-part-7)

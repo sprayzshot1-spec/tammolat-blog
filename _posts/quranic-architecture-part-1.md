@@ -2,7 +2,7 @@
 title: "الجزء الأول: ما لم يذكر من قبل | معمارية القران"
 excerpt: "لماذا لم يُصنّف القرآن كبقية الكتب؟ نكشف معمارية القرآن الفريدة التي تتخطى تصنيفاتنا المنطقية وتقدم عطاءً ممتداً بلا حدود."
 coverImage: "/assets/blog/quranic-architecture/thumbnail1.jpg"
-date: "2026-07-01T03:26:11.000Z"
+date: "2026-07-01T03:35:13.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -116,7 +116,7 @@ youtubeUrl: "https://youtu.be/3-pngfTa3qs"
 ---
 
 ### 🔗 أجزاء سلسلة "معمارية القران"
-* **الجزء الأول: ما لم يذكر من قبل** *(أنت تقرأه الآن)*
+* **الجزء الأول: ما لم يذكر من قبل**2 *(أنت تقرأه الآن)*
 * [الجزء الثاني: قانون الزوجية](/posts/quranic-architecture-part-2)
 * [الجزء الثالث: بين العقل والقلب](/posts/quranic-architecture-part-3)
 * [الجزء الرابع: الثابت والمتغير](/posts/quranic-architecture-part-4)

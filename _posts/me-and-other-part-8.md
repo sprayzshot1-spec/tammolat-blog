@@ -2,7 +2,7 @@
 title: "الجزء الثامن | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "هل الفن مجرد 'دلق ألوان'؟ اكتشف كيف تحول مفهومه من التجسيد إلى التجريد، وكيف تحدى العقل ليصبح لغة تتطلب ثقافة خاصة."
 coverImage: "/assets/blog/me-and-other/thumbnail8.jpg"
-date: "2026-06-29T03:05:06.000Z"
+date: "2026-06-29T03:14:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -73,7 +73,7 @@ ogImage:
 * [الجزء الخامس](/posts/me-and-other-part-5)
 * [الجزء السادس](/posts/me-and-other-part-6)
 * [الجزء السابع](/posts/me-and-other-part-7)
-* **الجزء الثامن** *(أنت تقرأه الآن)*
+* **الجزء الثامن**2 *(أنت تقرأه الآن)*
 * [الجزء التاسع](/posts/me-and-other-part-9)
 * [الجزء العاشر](/posts/me-and-other-part-10)
 * [الجزء 11](/posts/me-and-other-part-11)

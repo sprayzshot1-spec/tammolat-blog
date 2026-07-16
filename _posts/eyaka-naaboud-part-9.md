@@ -2,7 +2,7 @@
 title: "الجزء التاسع: جندي الرعب | عوالم اياك نعبد واياك نستعين"
 excerpt: "هل الدعاء يكفي أم نحتاج F-35؟ يكشف المقال كيف تخلت الأمة عن 'جندي الرعب' وماذا يعني أن نكون في 'جحر الضب'."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail9.jpg"
-date: "2026-07-12T03:02:05.000Z"
+date: "2026-07-12T03:11:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -148,5 +148,5 @@ youtubeUrl: "https://youtu.be/SXmr-vmax8M"
 * [الجزء السادس](/posts/eyaka-naaboud-part-6)
 * [الجزء السابع](/posts/eyaka-naaboud-part-7)
 * [الجزء الثامن](/posts/eyaka-naaboud-part-8)
-* **الجزء التاسع: جندي الرعب** *(أنت تقرأه الآن)*
+* **الجزء التاسع: جندي الرعب**2 *(أنت تقرأه الآن)*
 * [الجزء العاشر: سر المغضوب عليهم](/posts/eyaka-naaboud-part-10)

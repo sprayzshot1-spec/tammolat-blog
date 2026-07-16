@@ -2,7 +2,7 @@
 title: "الجزء الخامس: الجسد والروح والنفس | معمارية القران"
 excerpt: "معمارية القرآن تكشف أسرار الجسد، الروح، والنفس. هل النفس نتاج اندماج الروح بالجسد؟ استكشف هذه العلاقة المعقدة."
 coverImage: "/assets/blog/quranic-architecture/thumbnail5.jpg"
-date: "2026-07-01T03:14:13.000Z"
+date: "2026-07-01T03:23:14.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -141,5 +141,5 @@ youtubeUrl: "https://youtu.be/mr4lrnC1Gwk"
 * [الجزء الثاني: قانون الزوجية](/posts/quranic-architecture-part-2)
 * [الجزء الثالث: بين العقل والقلب](/posts/quranic-architecture-part-3)
 * [الجزء الرابع: الثابت والمتغير](/posts/quranic-architecture-part-4)
-* **الجزء الخامس: الجسد والروح والنفس** *(أنت تقرأه الآن)*
+* **الجزء الخامس: الجسد والروح والنفس**2 *(أنت تقرأه الآن)*
 * [الجزء السادس: الاكوان المتوازية](/posts/quranic-architecture-part-6)

@@ -2,7 +2,7 @@
 title: "الجزء الثامن | عوالم اياك نعبد واياك نستعين"
 excerpt: "هل تتساءل عن سر توافق رحمة الله مع عذاب الآخرة؟ اكتشف كيف يفسر 'يوم الدين' هذا اللغز، وكيف يحدد اختيارك وإخلاصك مصيرك الأبدي."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail8.jpg"
-date: "2026-07-12T03:05:05.000Z"
+date: "2026-07-12T03:14:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -108,6 +108,6 @@ youtubeUrl: "https://youtu.be/nVyMIj20zVI"
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)
 * [الجزء السادس](/posts/eyaka-naaboud-part-6)
 * [الجزء السابع](/posts/eyaka-naaboud-part-7)
-* **الجزء الثامن** *(أنت تقرأه الآن)*
+* **الجزء الثامن**2 *(أنت تقرأه الآن)*
 * [الجزء التاسع: جندي الرعب](/posts/eyaka-naaboud-part-9)
 * [الجزء العاشر: سر المغضوب عليهم](/posts/eyaka-naaboud-part-10)

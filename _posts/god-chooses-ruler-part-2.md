@@ -2,7 +2,7 @@
 title: "الجزء الثاني: الفيلسوف | عندما يختار الله الحاكم"
 excerpt: "من يحكمنا؟ هل رؤية أفلاطون للحاكم الحكيم أم المنهج الإلهي؟ اكتشف الفارق بينهما وكيف يختلفان عن الديمقراطية."
 coverImage: "/assets/blog/god-chooses-ruler/thumbnail2.jpg"
-date: "2026-07-02T03:23:10.000Z"
+date: "2026-07-02T03:32:12.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -65,6 +65,6 @@ youtubeUrl: "https://youtu.be/FnDefkDrqG4"
 
 ### 🔗 أجزاء سلسلة "عندما يختار الله الحاكم"
 * [الجزء الأول: طالوت](/posts/god-chooses-ruler-part-1)
-* **الجزء الثاني: الفيلسوف** *(أنت تقرأه الآن)*
+* **الجزء الثاني: الفيلسوف**2 *(أنت تقرأه الآن)*
 * [الجزء الثالث: الديمقراطية](/posts/god-chooses-ruler-part-3)
 * [الجزء الرابع: السادات](/posts/god-chooses-ruler-part-4)

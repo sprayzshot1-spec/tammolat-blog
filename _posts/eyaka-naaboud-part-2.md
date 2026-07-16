@@ -2,7 +2,7 @@
 title: "الجزء الثاني: التدريب وتدرج اليقين | عوالم اياك نعبد واياك نستعين"
 excerpt: "مفاتيح 'إياك نعبد وإياك نستعين' ليست في العلم والفكر العميق! اكتشف البوابة الحقيقية الصادمة لهذا العالم."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail2.jpg"
-date: "2026-07-12T03:23:05.000Z"
+date: "2026-07-12T03:32:06.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -68,7 +68,7 @@ youtubeUrl: "https://www.youtube.com/watch?v=R-UBe_obCgo"
 
 ### 🔗 أجزاء سلسلة "عوالم اياك نعبد واياك نستعين"
 * [الجزء الأول: عتبات الدخول](/posts/eyaka-naaboud-part-1)
-* **الجزء الثاني: التدريب وتدرج اليقين** *(أنت تقرأه الآن)*
+* **الجزء الثاني: التدريب وتدرج اليقين**2 *(أنت تقرأه الآن)*
 * [الجزء الثالث](/posts/eyaka-naaboud-part-3)
 * [الجزء الرابع](/posts/eyaka-naaboud-part-4)
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)

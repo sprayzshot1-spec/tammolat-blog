@@ -2,7 +2,7 @@
 title: "الجزء السابع | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "من احتجاج لوثر إلى حرب الثلاثين عامًا الدامية: كيف تحوّل صراع ديني إلى حمام دم نُسي أصله؟ واكتشف كيف يُمكن للفن أن يكون الملاذ الوحيد."
 coverImage: "/assets/blog/me-and-other/thumbnail7.jpg"
-date: "2026-06-29T03:08:06.000Z"
+date: "2026-06-29T03:17:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -59,7 +59,7 @@ ogImage:
 * [الجزء الرابع](/posts/me-and-other-part-4)
 * [الجزء الخامس](/posts/me-and-other-part-5)
 * [الجزء السادس](/posts/me-and-other-part-6)
-* **الجزء السابع** *(أنت تقرأه الآن)*
+* **الجزء السابع**2 *(أنت تقرأه الآن)*
 * [الجزء الثامن](/posts/me-and-other-part-8)
 * [الجزء التاسع](/posts/me-and-other-part-9)
 * [الجزء العاشر](/posts/me-and-other-part-10)

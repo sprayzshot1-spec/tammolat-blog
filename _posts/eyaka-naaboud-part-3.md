@@ -2,7 +2,7 @@
 title: "الجزء الثالث | عوالم اياك نعبد واياك نستعين"
 excerpt: "هل تبحث عن الله في متاهة الأفكار؟ اكتشف الصراط المستقيم، الطريق الأقصر إليه. تعلم كيف تستقبل إشاراته الخفية بقلب متواضع."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail3.jpg"
-date: "2026-07-12T03:20:05.000Z"
+date: "2026-07-12T03:29:06.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -169,7 +169,7 @@ youtubeUrl: "https://youtu.be/Fr1NBjLSD3M"
 ### 🔗 أجزاء سلسلة "عوالم اياك نعبد واياك نستعين"
 * [الجزء الأول: عتبات الدخول](/posts/eyaka-naaboud-part-1)
 * [الجزء الثاني: التدريب وتدرج اليقين](/posts/eyaka-naaboud-part-2)
-* **الجزء الثالث** *(أنت تقرأه الآن)*
+* **الجزء الثالث**2 *(أنت تقرأه الآن)*
 * [الجزء الرابع](/posts/eyaka-naaboud-part-4)
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)
 * [الجزء السادس](/posts/eyaka-naaboud-part-6)

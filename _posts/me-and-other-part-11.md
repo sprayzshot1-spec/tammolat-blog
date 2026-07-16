@@ -2,7 +2,7 @@
 title: "الجزء 11 | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "كيف غيّر سؤال لص مجرى حياة الغزالي؟ اكتشف رحلة تحوله من مجد الدنيا إلى زهد الآخرة، ولماذا قال: 'اللهم ألهمنا إيمان العوام'. الجنة ليست حِكراً على المتعلمين!"
 coverImage: "/assets/blog/me-and-other/thumbnail11.jpg"
-date: "2026-06-29T02:56:06.000Z"
+date: "2026-06-29T03:05:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -82,6 +82,6 @@ ogImage:
 * [الجزء الثامن](/posts/me-and-other-part-8)
 * [الجزء التاسع](/posts/me-and-other-part-9)
 * [الجزء العاشر](/posts/me-and-other-part-10)
-* **الجزء 11** *(أنت تقرأه الآن)*
+* **الجزء 11**2 *(أنت تقرأه الآن)*
 * [الجزء 12](/posts/me-and-other-part-12)
 * [الجزء 13](/posts/me-and-other-part-13)

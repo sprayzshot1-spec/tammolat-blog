@@ -2,7 +2,7 @@
 title: "الجزء الرابع: السادات | عندما يختار الله الحاكم"
 excerpt: "لماذا قُتل السادات بتهمة الحكم بغير ما أنزل الله؟ المقال يغوص في مراتب التكفير، ويكشف كيف لعب الحب والكراهية دوراً محورياً في هذه القضية الشائكة."
 coverImage: "/assets/blog/god-chooses-ruler/thumbnail4.jpg"
-date: "2026-07-02T03:17:11.000Z"
+date: "2026-07-02T03:26:13.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -214,4 +214,4 @@ youtubeUrl: "https://youtu.be/_rFYgli7kl8"
 * [الجزء الأول: طالوت](/posts/god-chooses-ruler-part-1)
 * [الجزء الثاني: الفيلسوف](/posts/god-chooses-ruler-part-2)
 * [الجزء الثالث: الديمقراطية](/posts/god-chooses-ruler-part-3)
-* **الجزء الرابع: السادات** *(أنت تقرأه الآن)*
+* **الجزء الرابع: السادات**2 *(أنت تقرأه الآن)*

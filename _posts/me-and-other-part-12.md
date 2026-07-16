@@ -2,7 +2,7 @@
 title: "الجزء 12 | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "ظنوا أن إبادة الذئاب ستجعل يلوستون أفضل. اكتشفوا كيف تحول الحلم إلى كابوس بيئي غير متوقع بتأثيرات مدمرة لم يتوقعها أحد."
 coverImage: "/assets/blog/me-and-other/thumbnail12.jpg"
-date: "2026-06-29T02:53:06.000Z"
+date: "2026-06-29T03:02:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -97,5 +97,5 @@ ogImage:
 * [الجزء التاسع](/posts/me-and-other-part-9)
 * [الجزء العاشر](/posts/me-and-other-part-10)
 * [الجزء 11](/posts/me-and-other-part-11)
-* **الجزء 12** *(أنت تقرأه الآن)*
+* **الجزء 12**2 *(أنت تقرأه الآن)*
 * [الجزء 13](/posts/me-and-other-part-13)

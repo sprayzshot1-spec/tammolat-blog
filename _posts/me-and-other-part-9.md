@@ -2,7 +2,7 @@
 title: "الجزء التاسع | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "هل الذكاء وحده يحدد الإبداع؟ اكتشف كيف يخدعك أصحاب العقول النيرة، ولماذا فشل 'دي بونو' في قياس عبقرية فان جوخ."
 coverImage: "/assets/blog/me-and-other/thumbnail9.jpg"
-date: "2026-06-29T03:02:06.000Z"
+date: "2026-06-29T03:11:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -72,7 +72,7 @@ ogImage:
 * [الجزء السادس](/posts/me-and-other-part-6)
 * [الجزء السابع](/posts/me-and-other-part-7)
 * [الجزء الثامن](/posts/me-and-other-part-8)
-* **الجزء التاسع** *(أنت تقرأه الآن)*
+* **الجزء التاسع**2 *(أنت تقرأه الآن)*
 * [الجزء العاشر](/posts/me-and-other-part-10)
 * [الجزء 11](/posts/me-and-other-part-11)
 * [الجزء 12](/posts/me-and-other-part-12)

@@ -2,7 +2,7 @@
 title: "الجزء الرابع: يوشع بن نون | أسرار العلم من الكتاب"
 excerpt: "هل تعلم أن كل علم ومقدار مكتوب بقلم الله؟ اكتشف كيف يختلف قانون الأسباب عن مشيئة 'كن فيكون' في رحلة تكشف أسرار المعرفة."
 coverImage: "/assets/blog/secrets-of-the-Book/thumbnail4.jpg"
-date: "2026-07-09T03:17:14.000Z"
+date: "2026-07-09T03:26:16.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -113,7 +113,7 @@ youtubeUrl: "https://youtu.be/536OPiZAtY0"
 * [الجزء الأول: في مواجهة العفريت](/posts/secrets-of-the-Book-part-1)
 * [الجزء الثاني: برخيا في مواجهة أينشتاين](/posts/secrets-of-the-Book-part-2)
 * [الجزء الثالث: روندا بايرن في مواجهة القلم](/posts/secrets-of-the-Book-part-3)
-* **الجزء الرابع: يوشع بن نون** *(أنت تقرأه الآن)*
+* **الجزء الرابع: يوشع بن نون**2 *(أنت تقرأه الآن)*
 * [الجزء الخامس: الخواص في مواجهة جوجل](/posts/secrets-of-the-Book-part-5)
 * [الجزء السادس: يوسف في مواجهة نوستراداموس](/posts/secrets-of-the-Book-part-6)
 * [الجزء السابع: يوسف في مواجهة الجن](/posts/secrets-of-the-Book-part-7)

@@ -2,7 +2,7 @@
 title: "الجزء السابع | عوالم اياك نعبد واياك نستعين"
 excerpt: "هل تواجه الابتلاءات في طريقك؟ اكتشف السلاح الأقوى، 'باب الحمد'، وكيف يفتح آفاق الفهم الحقيقي للقرآن والنجاة."
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail7.jpg"
-date: "2026-07-12T03:08:05.000Z"
+date: "2026-07-12T03:17:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -126,7 +126,7 @@ youtubeUrl: "https://youtu.be/xoqtT7t8NDc"
 * [الجزء الرابع](/posts/eyaka-naaboud-part-4)
 * [الجزء الخامس](/posts/eyaka-naaboud-part-5)
 * [الجزء السادس](/posts/eyaka-naaboud-part-6)
-* **الجزء السابع** *(أنت تقرأه الآن)*
+* **الجزء السابع**2 *(أنت تقرأه الآن)*
 * [الجزء الثامن](/posts/eyaka-naaboud-part-8)
 * [الجزء التاسع: جندي الرعب](/posts/eyaka-naaboud-part-9)
 * [الجزء العاشر: سر المغضوب عليهم](/posts/eyaka-naaboud-part-10)

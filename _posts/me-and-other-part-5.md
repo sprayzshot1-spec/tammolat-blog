@@ -2,7 +2,7 @@
 title: "الجزء الخامس | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "أينشتاين يكشف سر الفهم البشري! هل كل ما تراه صحيحًا؟ اكتشف لماذا يختلف الناس وكيف تتجنب الجدال في عالم يمتلئ بـ 'لصوص الفقه'."
 coverImage: "/assets/blog/me-and-other/thumbnail5.jpg"
-date: "2026-06-29T03:14:06.000Z"
+date: "2026-06-29T03:23:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -70,7 +70,7 @@ ogImage:
 * [الجزء الثاني](/posts/me-and-other-part-2)
 * [الجزء الثالث](/posts/me-and-other-part-3)
 * [الجزء الرابع](/posts/me-and-other-part-4)
-* **الجزء الخامس** *(أنت تقرأه الآن)*
+* **الجزء الخامس**2 *(أنت تقرأه الآن)*
 * [الجزء السادس](/posts/me-and-other-part-6)
 * [الجزء السابع](/posts/me-and-other-part-7)
 * [الجزء الثامن](/posts/me-and-other-part-8)

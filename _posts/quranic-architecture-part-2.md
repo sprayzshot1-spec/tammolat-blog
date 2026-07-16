@@ -2,7 +2,7 @@
 title: "الجزء الثاني: قانون الزوجية | معمارية القران"
 excerpt: "هل فشل أينشتاين في فهم الكون؟ يكشف هذا المقال كيف يحل 'قانون الزوجية' القرآني التناقضات الكونية، ويضيء على معمارية كتاب الله الفريدة."
 coverImage: "/assets/blog/quranic-architecture/thumbnail2.jpg"
-date: "2026-07-01T03:23:12.000Z"
+date: "2026-07-01T03:32:13.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -88,7 +88,7 @@ youtubeUrl: "https://youtu.be/T67Cu0CIerQ"
 
 ### 🔗 أجزاء سلسلة "معمارية القران"
 * [الجزء الأول: ما لم يذكر من قبل](/posts/quranic-architecture-part-1)
-* **الجزء الثاني: قانون الزوجية** *(أنت تقرأه الآن)*
+* **الجزء الثاني: قانون الزوجية**2 *(أنت تقرأه الآن)*
 * [الجزء الثالث: بين العقل والقلب](/posts/quranic-architecture-part-3)
 * [الجزء الرابع: الثابت والمتغير](/posts/quranic-architecture-part-4)
 * [الجزء الخامس: الجسد والروح والنفس](/posts/quranic-architecture-part-5)

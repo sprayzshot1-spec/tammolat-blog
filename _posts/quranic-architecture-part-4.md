@@ -2,7 +2,7 @@
 title: "الجزء الرابع: الثابت والمتغير | معمارية القران"
 excerpt: "هل تساءلت يوماً عن القانون الكوني الذي يحكم كل شيء؟ اكتشف كيف يربط القرآن مفهوم الثابت والمتغير بمحورية الله المطلقة، مع إعجاز علمي مذهل!"
 coverImage: "/assets/blog/quranic-architecture/thumbnail4.jpg"
-date: "2026-07-01T03:17:12.000Z"
+date: "2026-07-01T03:26:14.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -100,6 +100,6 @@ youtubeUrl: "https://youtu.be/yWW2ipLIljg"
 * [الجزء الأول: ما لم يذكر من قبل](/posts/quranic-architecture-part-1)
 * [الجزء الثاني: قانون الزوجية](/posts/quranic-architecture-part-2)
 * [الجزء الثالث: بين العقل والقلب](/posts/quranic-architecture-part-3)
-* **الجزء الرابع: الثابت والمتغير** *(أنت تقرأه الآن)*
+* **الجزء الرابع: الثابت والمتغير**2 *(أنت تقرأه الآن)*
 * [الجزء الخامس: الجسد والروح والنفس](/posts/quranic-architecture-part-5)
 * [الجزء السادس: الاكوان المتوازية](/posts/quranic-architecture-part-6)

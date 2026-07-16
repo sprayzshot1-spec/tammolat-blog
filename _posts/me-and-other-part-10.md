@@ -2,7 +2,7 @@
 title: "الجزء العاشر | انا والآخر ( إشكالية العقل والنقل )"
 excerpt: "حرية الفنان المطلقة: هل تتطلب تجاوز القيود الأخلاقية والدينية؟ استكشف رحلة فنانين ومفكرين نحو الإبداع وماذا يكشف عن إيمانهم."
 coverImage: "/assets/blog/me-and-other/thumbnail10.jpg"
-date: "2026-06-29T02:59:06.000Z"
+date: "2026-06-29T03:08:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -97,7 +97,7 @@ ogImage:
 * [الجزء السابع](/posts/me-and-other-part-7)
 * [الجزء الثامن](/posts/me-and-other-part-8)
 * [الجزء التاسع](/posts/me-and-other-part-9)
-* **الجزء العاشر** *(أنت تقرأه الآن)*
+* **الجزء العاشر**2 *(أنت تقرأه الآن)*
 * [الجزء 11](/posts/me-and-other-part-11)
 * [الجزء 12](/posts/me-and-other-part-12)
 * [الجزء 13](/posts/me-and-other-part-13)

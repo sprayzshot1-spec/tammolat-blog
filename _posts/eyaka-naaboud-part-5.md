@@ -2,7 +2,7 @@
 title: "الجزء الخامس | عوالم اياك نعبد واياك نستعين"
 excerpt: "طريق العبادة ليس مفروشًا بالورود! اكتشف أنواع الابتلاءات التي تمتحن القلوب، التكاليف، والصبر. هل أنت مستعد لمواجهتها؟"
 coverImage: "/assets/blog/eyaka-naaboud/thumbnail5.jpg"
-date: "2026-07-12T03:14:05.000Z"
+date: "2026-07-12T03:23:07.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
@@ -72,7 +72,7 @@ youtubeUrl: "https://youtu.be/r5wPWZN3Erg"
 * [الجزء الثاني: التدريب وتدرج اليقين](/posts/eyaka-naaboud-part-2)
 * [الجزء الثالث](/posts/eyaka-naaboud-part-3)
 * [الجزء الرابع](/posts/eyaka-naaboud-part-4)
-* **الجزء الخامس** *(أنت تقرأه الآن)*
+* **الجزء الخامس**2 *(أنت تقرأه الآن)*
 * [الجزء السادس](/posts/eyaka-naaboud-part-6)
 * [الجزء السابع](/posts/eyaka-naaboud-part-7)
 * [الجزء الثامن](/posts/eyaka-naaboud-part-8)
