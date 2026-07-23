@@ -883,6 +883,15 @@ export default function IndexMenu() {
                         - الجزء الأول: لا شرقية ولا غربية
                       </Link>
                     </li>
+                    <li>
+                      <Link 
+                        href="/posts/artificial-intelligence-quran-02" 
+                        className="text-slate-600 dark:text-slate-400 hover:text-blue-600 transition-colors text-sm" 
+                        onClick={() => setIsOpen(false)}
+                      >
+                        - الجزء الثاني: كش ملك
+                      </Link>
+                    </li>
                   </ul>
                 </li>
               </ul>
