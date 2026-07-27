@@ -2,7 +2,7 @@
 title: "الجزء الثاني: كش ملك | الذكاء الاصطناعي يخلق قرأنا جديدا"
 excerpt: "تحدي إلهي فريد يضع البشرية أمام سؤال عميق: هل يمكن الإتيان بمثل القرآن؟ نكشف المعايير الحقيقية للمقارنة ونستلهم من حكمة الأنبياء."
 coverImage: "/assets/blog/artificial-intelligence-quran/thumbnail2.jpg"
-date: "2026-07-22T18:37:42.000Z"
+date: "2026-07-26T13:10:44.000Z"
 author:
   name: "أحمد شاكر"
   picture: "/images/logo.png"
